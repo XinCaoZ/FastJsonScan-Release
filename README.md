@@ -96,26 +96,6 @@
 
 在 **响应查看器** 和 **日志面板** 中查看结果。
 
-## 📂 项目结构
-
-```
-FastJsonScan/
-├── backend/              # Java 后端
-│   ├── src/main/java/
-│   │   ├── payload/     # Payload 生成
-│   │   ├── service/     # 业务逻辑
-│   │   └── utils/       # 工具类
-│   └── pom.xml          # Maven 配置
-├── frontend/             # Vue3 前端
-│   └── src/
-│       ├── components/    # Vue 组件
-│       ├── stores/        # 状态管理
-│       └── types/        # TypeScript 类型
-├── electron/             # Electron 主进程
-├── resources/            # 资源文件
-└── scripts/             # 构建脚本
-```
-
 ## 🔧 配置
 
 在 **设置面板** 中可以配置：
