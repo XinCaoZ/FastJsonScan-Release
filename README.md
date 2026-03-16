@@ -200,4 +200,3 @@ A: 检查目标是否使用了 WAF 或防护设备，尝试修改 User-Agent 或
 ---
 
 **Author:** XinCaoZ
-**Email:** 2434598198@qq.com
