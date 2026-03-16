@@ -17,41 +17,6 @@
 - 📝 **实时日志** - 实时查看扫描和利用过程
 - 🔄 **历史记录** - 保存请求历史，方便复用
 
-## 🚀 快速开始
-
-### 环境要求
-
-- Java 8+
-- Node.js 18+
-- Maven 3.6+
-
-### 安装
-
-```bash
-# 克隆仓库
-git clone https://github.com/XinCaoZ/FastJsonScan.git
-cd FastJsonScan
-
-# 安装依赖
-npm install
-
-# 构建后端
-npm run build:backend
-
-# 构建前端
-npm run build:frontend
-```
-
-### 运行
-
-```bash
-# 开发模式
-npm run dev
-
-# 构建 Electron 应用
-npm run build:electron
-```
-
 ## 📖 功能说明
 
 ### 漏洞利用
