@@ -1,6 +1,6 @@
 # FastJsonScan
 
-> Fastjson 漏洞扫描工具 - 现代化图形界面
+> Fastjson 漏洞扫描工具
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-green.svg)](package.json)
